@@ -1,5 +1,5 @@
-OS: Windows
-
+OS: Windows </br>
+Movies (not TV)
 
 Folder 1 = Source / Torrent Download folder (Remains untouched)
 
