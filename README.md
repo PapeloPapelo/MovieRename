@@ -11,9 +11,13 @@ e.g.
 Folder 1 contains:</br>
 La.Collectionneuse.1967.FRENCH.1080p.BluRay.x264-CherryCoke.mkv
 
-Folder 2 empty.
+Folder 2 </br> 
+empty
 
 RUN SCRIPT
+
+Folder 1 still contains:</br>
+La.Collectionneuse.1967.FRENCH.1080p.BluRay.x264-CherryCoke.mkv
 
 Folder 2: </br>
 Folder [La Collectionneuse (1967)] -> File "La Collectionneuse (1967) BluRay-1080p.mkv"
