@@ -20,6 +20,5 @@ Folder 2: [La Collectionneuse (1967)] -> "La Collectionneuse (1967) BluRay-1080p
 
 For each Movie a new folder + linked file is created.
 ___________________________________________________________________________________________________________________
-Note: Watch the cmd output "Skipped Files", if something is off check it out why. e.g. weird naming of source.
-"Skipped Files" are all files which have been processed a second time and might have slight issues for whatever reason.
-Look them up in the Destination folder if they are fine.
+Note: "Skipped Files" are also files which already been named perfectly. They are hardlinked! It just means they been skipped by initial processing.
+Just to be sure still check if file count is the same in source and destination folder by the end.
